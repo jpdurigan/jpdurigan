@@ -4,6 +4,6 @@ i know game logic and web development, working with Godot Engine, JavaScript and
 
 👾 games: https://jpdurigan.itch.io/
 <br>
-⚙️ other: https://durigan.jp/cv
+⚙️ other: https://durigan.jp/
 <br>
 ✉️ contact: jpdurigan@gmail.com

@@ -8,5 +8,3 @@ hello! i'm a game and web developer from São Paulo, Brazil  🇧🇷  🏳️�
 🎮 https://jpdurigan.itch.io/
 <br>
 ⚙️ https://durigan.jp/
-<br>
-✉️ jpdurigan@gmail.com

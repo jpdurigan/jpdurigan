@@ -1,5 +1,6 @@
 hello! i'm a game and web developer from São Paulo, Brazil  🇧🇷  🏳️‍🌈  🛸
 <br>
+<br>
 ⌨️ GDScript, C#, Typescript, Python
 <br>
 👾 Godot Engine, Unity
@@ -8,4 +9,4 @@ hello! i'm a game and web developer from São Paulo, Brazil  🇧🇷  🏳️�
 <br>
 ⚙️ https://durigan.jp/
 <br>
-✉️ contact: jpdurigan@gmail.com
+✉️ jpdurigan@gmail.com

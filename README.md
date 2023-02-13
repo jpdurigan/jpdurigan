@@ -1,9 +1,9 @@
-hello! i'm a game and web developer from São Paulo, Brazil  🇧🇷  🏳️‍🌈  🛸
+hi! i'm João Pedro Durigan 👨‍💻, developer from São Paulo, Brazil  🇧🇷  🏳️‍🌈  🛸
 <br>
 <br>
-⌨️    GDScript, C#, Typescript, Python
+🛠️ web fullstack with TypeScript, React, Express, MongoDB and PostgreSQL
 <br>
-👾    Godot Engine, Unity
+👾 games with Godot, GDScript, Unity and C#
 <br>
 🎮    [jpdurigan.itch.io](https://jpdurigan.itch.io/)
 <br>
